@@ -32,4 +32,4 @@ https://github.com/PritNotPrinter/FlyingCard
 
 
 
-![PCSSLOGO](.assets/temppcss.jpg)
+![PCSSLOGO](assets/temppcss.jpg)
