@@ -18,7 +18,9 @@ https://github.com/PritNotPrinter/MonteCarlo
 https://github.com/PritNotPrinter/FlyingCard
 
 ---
+# ISC4U Weekly Reflections
+  [Week 1](/posts/first_reflection.md)
 
 # ISC4U Projects
-*To be updated as coursework begins*
+
 
